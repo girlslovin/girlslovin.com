@@ -1,110 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- このサイトマップは、2025年6月14日の3:32 PMに、WordPress 用のオリジナル SEO プラグイン All in One SEO v4.8.3.2により動的生成されました。 -->
+<!-- このサイトマップは、2025年6月15日の2:31 PMに、WordPress 用のオリジナル SEO プラグイン All in One SEO v4.8.3.2により動的生成されました。 -->
 
-<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=category"?>
+<?xml-stylesheet type="text/xsl" href="https://girlslovin.com/default-sitemap.xsl?sitemap=category"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/category/beauty]]></loc>
+		<loc><![CDATA[https://girlslovin.com/category/beauty]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/fashion]]></loc>
+		<loc><![CDATA[https://girlslovin.com/category/fashion]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/news]]></loc>
+		<loc><![CDATA[https://girlslovin.com/category/news]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/love]]></loc>
+		<loc><![CDATA[https://girlslovin.com/category/love]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/movie]]></loc>
+		<loc><![CDATA[https://girlslovin.com/category/movie]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/music]]></loc>
+		<loc><![CDATA[https://girlslovin.com/category/music]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/food]]></loc>
+		<loc><![CDATA[https://girlslovin.com/category/food]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/diet]]></loc>
+		<loc><![CDATA[https://girlslovin.com/category/diet]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/tv]]></loc>
+		<loc><![CDATA[https://girlslovin.com/category/tv]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/event]]></loc>
+		<loc><![CDATA[https://girlslovin.com/category/event]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/travel]]></loc>
+		<loc><![CDATA[https://girlslovin.com/category/travel]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/sports]]></loc>
+		<loc><![CDATA[https://girlslovin.com/category/sports]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/lifestyle]]></loc>
+		<loc><![CDATA[https://girlslovin.com/category/lifestyle]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/usj]]></loc>
+		<loc><![CDATA[https://girlslovin.com/category/usj]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/disney]]></loc>
+		<loc><![CDATA[https://girlslovin.com/category/disney]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/hot-item]]></loc>
+		<loc><![CDATA[https://girlslovin.com/category/hot-item]]></loc>
 		<lastmod><![CDATA[2018-06-14T13:14:34+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/hot-item/luna]]></loc>
+		<loc><![CDATA[https://girlslovin.com/category/hot-item/luna]]></loc>
 		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
