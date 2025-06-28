@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- このサイトマップは、2025年6月15日の2:31 PMに、WordPress 用のオリジナル SEO プラグイン All in One SEO v4.8.3.2により動的生成されました。 -->
+<!-- このサイトマップは、2025年6月28日の10:50 PMに、WordPress 用のオリジナル SEO プラグイン All in One SEO v4.8.4.1により動的生成されました。 -->
 
 <?xml-stylesheet type="text/xsl" href="https://girlslovin.com/default-sitemap.xsl?sitemap=root"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<sitemap>
-		<loc><![CDATA[https://girlslovin.com/addl-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2018-09-11T15:52:46+00:00]]></lastmod>
-	</sitemap>
-	<sitemap>
-		<loc><![CDATA[https://girlslovin.com/post-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2018-09-11T15:52:46+00:00]]></lastmod>
-	</sitemap>
-	<sitemap>
-		<loc><![CDATA[https://girlslovin.com/page-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2013-11-11T03:49:30+00:00]]></lastmod>
-	</sitemap>
-	<sitemap>
-		<loc><![CDATA[https://girlslovin.com/category-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2018-09-11T15:52:46+00:00]]></lastmod>
-	</sitemap>
-	<sitemap>
-		<loc><![CDATA[https://girlslovin.com/post_tag-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2018-07-16T08:14:49+00:00]]></lastmod>
-	</sitemap>
-</sitemapindex>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://girlslovin.com]]/></loc>
+		<lastmod><![CDATA[2017-07-15T00:25:59+00:00]]></lastmod>
+		<changefreq><![CDATA[always]]></changefreq>
+		<priority><![CDATA[1]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://girlslovin.com/ブログ一覧ページ]]></loc>
+		<lastmod><![CDATA[2017-07-07T14:47:45+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+</urlset>
